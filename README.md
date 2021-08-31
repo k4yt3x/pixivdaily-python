@@ -1,12 +1,12 @@
-# Telegram Daily Rankings
+# PixivDaily (Python)
 
-## Description
+The used to be the backend server script for the Telegram channel "[Pixiv Daily](https://t.me/pixiv_daily)". This script stopped working around the end of 2019. A newer, currently-in-use version of this script has been rewritten in Rust and can be found at [pixivdaily-rust](https://github.com/k4yt3x/pixivdaily-rust).
 
-The backend server script for Telegram channel "[Pixiv Daily](https://t.me/pixiv_daily)".
+This script was written when I was less competent at writing Python. **Before you read the code, be warned that it's far from pretty or efficient.**
 
 ## Usage
 
-```
+```console
 usage: pixiv_daily_rankings.py [-h] [-s] [-n] [-v]
 
 optional arguments:

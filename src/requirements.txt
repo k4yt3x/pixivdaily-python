@@ -1,0 +1,5 @@
+avalon_framework
+bs4
+pysnooper
+python-telegram-bot
+selenium
